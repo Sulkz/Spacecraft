@@ -121,7 +121,7 @@ public class Spacecraft_GLEventListener implements GLEventListener {
   private float rotateUpperAngleStart = -60, rotateUpperAngle = rotateUpperAngleStart;
   private float globeRotationAngle = 0 ;
   private float rotateSpeed = -10;
-  private float rotateSpeed_2 = -6;
+  private float rotateSpeed_2 = -3;
   private float skyrotate = 0;
 
 
